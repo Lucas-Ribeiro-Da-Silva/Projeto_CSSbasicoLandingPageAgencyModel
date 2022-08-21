@@ -1,5 +1,9 @@
 # Projeto_CSSbasicoLandingPageAgencyModel
-Neste meu primeiro projeto utilizando de CSS foi desenvolvida algumas páginas básicas formatadas para uma modelo ficticia.
+Neste meu primeiro projeto utilizando de CSS foi desenvolvida algumas páginas básicas formatadas para uma modelo ficticia;
+
+Nos primeiros passos utilizando do css, foram aplicados seletores (classes e Id's) para referenciar a estilização de acordo com a necessidade de cada tag;
+
+Foi aplicada personalização de imagens e também foi realizada a organização dos elementos e seções baseando-se no "box-model".
 
 ## layout
 
